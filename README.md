@@ -2,7 +2,7 @@
 
 我是一个对各种技术充满热情的小白。一天不学习，浑身像蚂蚁在身上趴。
 
-[![ITdog](https://img.shields.io/badge/ITdog-8A2BE2)](https://www.itdog.cn/tcping)&nbsp;&nbsp;&nbsp;&nbsp;[![GPT](https://img.shields.io/badge/openAI-GPT-8A2BE2)](https://chatgpt.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![WebSSH](https://img.shields.io/badge/webssh-ssh-8A2BE2)](https://webssh.090227.xyz/)&nbsp;&nbsp;&nbsp;&nbsp;[![CF优选IP](https://img.shields.io/badge/官方优选IP-8A2BE2)](https://cf.090227.xyz/)
+[![ITdog](https://img.shields.io/badge/ITdog-8A2BE2)](https://www.itdog.cn/tcping)&nbsp;&nbsp;&nbsp;&nbsp;[![ChatGPT](https://img.shields.io/badge/ChatGPT-8A2BE2)](https://chatgpt.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![公益SSH](https://img.shields.io/badge/公益SSH-8A2BE2)](https://webssh.090227.xyz/)&nbsp;&nbsp;&nbsp;&nbsp;[![CF优选IP](https://img.shields.io/badge/官方优选IP-8A2BE2)](https://cf.090227.xyz/)
 
 | <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axingod&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true" alt="axingod's github stats" /></a> | <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axingod&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
