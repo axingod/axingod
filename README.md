@@ -17,15 +17,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/cmliu/CFnat-Windows-GUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fscarmen2&repo=Argo-Nezha-Service-Container&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmliu&repo=CFnat-Windows-GUI&theme=buefy" />
 </a>
 <br />
 <br />
 <a href="https://github.com/cmliu/socks5-for-serv00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eooce&repo=Sing-box&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmliu&repo=socks5-for-serv00&theme=buefy" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/cmliu/WorkerVless2sub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bh-qt&repo=Cloudflare-IP-SpeedTest&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmliu&repo=WorkerVless2sub&theme=buefy" />
 </a>
 <br />
