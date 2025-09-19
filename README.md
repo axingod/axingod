@@ -1,3 +1,8 @@
+| <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axingod&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true" alt="axingod's github stats" /></a> | <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axingod&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
 ## 有朋自远方来，不亦乐乎。 👋
 
 我是一个对各种技术充满热情的小白。一天不学习，浑身像蚂蚁在身上趴。
@@ -7,8 +12,7 @@
 
 
 
-| <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axingod&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true" alt="axingod's github stats" /></a> | <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axingod&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 #### 常用热门库
 
