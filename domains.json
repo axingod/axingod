@@ -1,4 +1,10 @@
 [
   { "domain": "axingod.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2026-06-15", "system": "L53", "systemURL": "https://customer.l53.net/order/service"},
-  { "domain": "biaopiao.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2026-06-15", "system": "L53", "systemURL": "https://customer.l53.net/order/service"}
+  { "domain": "biaopiao.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2026-06-15", "system": "L53", "systemURL": "https://customer.l53.net/order/service"},
+  { "domain": "langzixin.dpdns.org", "registrationDate": "2024-11-08", "expirationDate": "2026-11-08", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview"},
+  { "domain": "panghuxin.dpdns.org", "registrationDate": "2024-11-08", "expirationDate": "2026-11-08", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview"},
+  { "domain": "baipiaoxin.dpdns.org", "registrationDate": "2024-11-08", "expirationDate": "2026-11-08", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview"},
+  { "domain": "axin2024.dpdns.org", "registrationDate": "2024-10-13", "expirationDate": "2026-10-13", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview"},
+  { "domain": "biaopiao.dpdns.org", "registrationDate": "2024-11-08", "expirationDate": "2026-11-08", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview"},
+  { "domain": "biaopiaodi.dpdns.org", "registrationDate": "2024-11-08", "expirationDate": "2026-11-08", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview"}
 ]
